@@ -5,9 +5,9 @@ const mysql = require('promise-mysql')
  */
 const pool = mysql.createPool({
     host : 'localhost',
-    user : 'root',
-    password : 'Password12',
-    database : 'challenge',
+    user : '',
+    password : '',
+    database : '',
     connectionLimit : 10,
     multipleStatements : true,
     port : 3306
