@@ -1,5 +1,4 @@
 
-//let mysql = require('promise-mysql')
 const pool = require('./pool.js');
 const errorhandler = require('./errorhandler.js')
 
