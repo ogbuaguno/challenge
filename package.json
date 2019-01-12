@@ -1,0 +1,25 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "shopify challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogbuaguno/challenge.git"
+  },
+  "author": "Nkechinyere Ogbuagu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogbuaguno/challenge/issues"
+  },
+  "homepage": "https://github.com/ogbuaguno/challenge#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "promise-mysql": "^3.3.1"
+  }
+}
